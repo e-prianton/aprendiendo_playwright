@@ -1,15 +1,15 @@
-#H1 Aprendiendo PlayWright
+# Aprendiendo PlayWright
 
-#H2 ¿Para qué es este repositorio?
+## ¿Para qué es este repositorio?
 Este repositorio es para hacer ejercicios de testing automatizado con Playwright y TypeScript.
 
-#H2 ¿Qué conocimientos se aplicarán?
+## ¿Qué conocimientos se aplicarán?
 Para ello se aplicarán los conocimientos adquiridos de la plataforma [TAU (Test Automation University)](https://testautomationu.applitools.com/playwright-intro/),
 
-#H2 ¿Cómo lo haremos?
+## ¿Cómo lo haremos?
 Para poder aplicar los casos de test, se usará la página: https://demo.playwright.dev/todomvc
 
-#H2 ¿Qué pasos realizaremos?
+## ¿Qué pasos realizaremos?
 1. Crearemos nuestra carpeta de repositorio
 2. Iniciaremos el proyecto dentro de la carpeta del repositorio con el comando de la terminal :
 
