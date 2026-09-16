@@ -9,6 +9,8 @@ Para ello se aplicarán los conocimientos adquiridos de la plataforma [TAU (Test
 ## ¿Cómo lo haremos?
 Para poder aplicar los casos de test, se usará la página: https://demo.playwright.dev/todomvc
 
+También utilizaremos la página de demo e-commerce: saucedemo.com 
+
 ## ¿Qué pasos realizaremos?
 1. Crearemos nuestra carpeta de repositorio
 2. Iniciaremos el proyecto dentro de la carpeta del repositorio con el comando de la terminal :
@@ -27,3 +29,6 @@ Con ello se crearan las carpetas y archivos de configuración para nuestro proye
 
 
 La idea es ir afianzando los conocimientos poco a poco con una práctica real y no solo viendo videos. Mejorando la programación de test y haciendo que los procesos de creación de test y gestión del desarrollo sean cada vez más fluidos sin tener que revisar tanto mis notas.
+
+-------
+Se han añadido casos de test generados con codegen
